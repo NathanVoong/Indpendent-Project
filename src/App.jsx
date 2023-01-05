@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
         <img src={randomImage} alt="My Image" style={{ width: '275px', height: '250px' }}/>
-        <h1>Random stuff (git version)</h1>
+        <h1>Random Stuff</h1>
         <div>
             <ImageButtons
                 setIsVisible = {setIsVisible}
